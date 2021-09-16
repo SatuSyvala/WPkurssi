@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    background-color: lightslategray;
+    color: darkolivegreen;
+    position: -webkit-sticky;
+    position: sticky;
+    top:0;
+    width: 500px;
+    margin: auto;
+}
+h2
+{
+    text-align: center;
+}
+#eka
+{
+    text-align: center;
+    background-color: darksalmon;
+    font-size: 25px;
+}
+.container1
+{
+    font-family: Arial;
+    background-color: lightyellow;
+    width: 350px;
+    height: 500px;
+    border: 20px solid lightpink;
+    margin: 20px 30px 50px 20px;
+    display: inline-block;
+    padding: 10px;
+}
+.container2
+{
+    font-family: Lucida Sans;
+    font-style: italic;
+    background-color: lightblue;
+    width: 350px;
+    height: 500px;
+    border: 20px solid darkgrey;
+    display: inline-block;
+    margin: 20px 30px 50px 20px;
+    padding: 10px;
+    
+}
+.kuvat
+{
+    width: auto;
+    display: inline-block;
+    border: 10px solid darksalmon;
+    margin: 20px 30px 50px 20px;
+}
+ .rotateimg180
+ {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+    opacity: 0.5;
+    width: auto;
+    display: inline-block;
+    border: 10px solid darksalmon;
+    margin: 20px 30px 50px 20px;
+}
+.rotateimg180:hover
+{
+    opacity: 1.0;
+}
