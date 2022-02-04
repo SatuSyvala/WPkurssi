@@ -1,5 +1,5 @@
-# testi-repo
-GitHub reeniä
-## Toimiiko samat jutut kuin GitLabissa
+# WordPress kurssin koodaus
 
-Vaatii harjoittelua vielä. 
+## WP, HTML, CSS
+
+Kurssilla tehtiin myös WP sivu 
