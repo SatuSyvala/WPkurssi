@@ -1,5 +1,5 @@
-# WordPress kurssin koodaus
+# Sisällön tuottaminen tietoverkkoon -kurssin tuotokset
 
-## WP, HTML, CSS
-
-Kurssilla tehtiin myös WP sivu 
+Kurssilla tutustuttiin WordPress-alustaan ja sen muokkaukseen.
+Kurssilla tehtiin oma WP -sivu ja kerrattiin HTML ja CSS taitoja.
+#### Minun sivuni [RetkiRellu](https://retkirellu.wordpress.com/)
